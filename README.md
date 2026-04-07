@@ -73,15 +73,21 @@ Como se puede apreciar cuando se va a hacer push hacia el repostorio en internet
 
 ### Ahora puedes modificar el codigo en la rama de desarrollo sin afectar la rama de produccion (main)
 
-### para modificar el codigo necesitamos abrir el Visual Studio Code y abrimos el proyecto (File -> Open Folder -> lab_gitlab). Nos deberia quedar como nos muestra en la imagen. ![Paso 4-1](images/paso4-1.png) 
+#### para modificar el codigo necesitamos abrir el Visual Studio Code y abrimos el proyecto (File -> Open Folder -> lab_gitlab). Nos deberia quedar como nos muestra en la imagen. ![Paso 4-1](images/paso4-1.png) 
 
-Para ver el proyecto por web debemos ingresar al gestor de archivo entramos a la ruta donde está el proyecto y copiamos esa url que aparece seleccionada. ![Paso 4-2](images/paso4-2.png) 
+#### Para ver el proyecto por web debemos ingresar al gestor de archivo entramos a la ruta donde está el proyecto y copiamos esa url que aparece seleccionada. ![Paso 4-2](images/paso4-2.png) 
 
-Luego, vamos al navegador y copiamos la ruta y al final le agregamos \index.html para que lo visualicemos como se ve en la imagen. ![Paso 4-3](images/paso4-3.png) 
+#### Luego, vamos al navegador y copiamos la ruta y al final le agregamos \index.html para que lo visualicemos como se ve en la imagen. ![Paso 4-3](images/paso4-3.png) 
 
-Vamos a realizar variamos modificaciones dentro del codigo: 
+#### Vamos a realizar variamos modificaciones dentro del codigo: 
 
-#### 1. Cambiaremos el color del header 
+#### 1. Se cambia el color del header colocando el cursor en el color donde esta seleccionado ![Paso 4-4](images/paso4-4.png)
+
+#### 2. Se cambia el titulo del header en la ruta 86 y se pone el nombre que quisiera. ![Paso 4-5](images/paso4-5.png)
+
+![Paso 4-6](images/paso4-6.png)
+
+#### Nota: Si desea realizar cambios adicionales en el codigo es completamente libre.
 
 
 
