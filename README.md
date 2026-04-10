@@ -20,7 +20,7 @@ Esta guia de laboratorio solo explicara ejecucion de comandos mediante CLI.
 - Se desplegara el siguiente menu para poder crear el repositorio, Poner como nombre del repositorio laboratorio_github y crearlo
 ![Paso1-3](images/paso1-3.png)
 
-## 2. Descarga de archivos para laboratorio en tu propio reposositorio.
+## 2. Descarga de archivos para laboratorio en tu propio repositorio.
 
 En este caso no se usara la funcion Fork de git para evitar posibles conflictos con el repositorio principal por algun PR.
 
@@ -137,4 +137,11 @@ Luego de ejecutado el comando no hay que realizar ningun "git add" o "git commit
 ```
 ## Ahora puedes ver los cambios que hiciste en la rama dev en la rama main.
 
-### 7. Aplicar merge solicitando Pull Request (PR)
+## 7. Aplicar merge solicitando Pull Request (PR)
+### Para este paso no hay que repetir el paso 6 ya que es un proceso diferente para poder realizar el PR.
+
+Para implementar un merge a la rama main mediante pull request, se requiere traer los cambios de la rama dev a main a traves de la consola de github, en muchos casos en los repositorios de codigo bloquean el push directo a rama main o trunk y solicitan un PR de un tercero, para poder generar el PR de tu ultimo cambio realizado en dev o tu rama feature o de fix se hace lo siguiente:
+
+Luego de haber realizado el push directo a la rama dev en github hacer los siguientes pasos
+- ir a Pull Requests ![Paso 7-1](images/paso7-1.png)
+- Seleccionar New Pull request ![Paso 7-2](images/paso7-2.png)
