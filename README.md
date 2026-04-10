@@ -143,7 +143,6 @@ Luego de ejecutado el comando no hay que realizar ningun "git add" o "git commit
 ```
 ## Ahora puedes ver los cambios que hiciste en la rama dev en la rama main.
 
-<<<<<<< HEAD
 ## 7. Aplicar merge solicitando Pull Request (PR)
 ### Para este paso no hay que repetir el paso 6 ya que es un proceso diferente para poder realizar el PR.
 
@@ -152,6 +151,3 @@ Para implementar un merge a la rama main mediante pull request, se requiere trae
 Luego de haber realizado el push directo a la rama dev en github hacer los siguientes pasos
 - ir a Pull Requests ![Paso 7-1](images/paso7-1.png)
 - Seleccionar New Pull request ![Paso 7-2](images/paso7-2.png)
-=======
-### 7. Aplicar merge solicitando Pull Request (PR)
->>>>>>> 070f1498b368d34abf53d5b96bc7dd2955bf05b3
